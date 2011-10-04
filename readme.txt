@@ -15,7 +15,7 @@ This plugin enables Crazyegg.com heatmap tracking on your WordPress site, with a
 
 1. Upload the `crazyegg-heatmap-tracking` directory into the `/wp-content/plugins/` directory on your server.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Using the WordPress Settings menu, navigate to Crazyegg Heatmap Tracking and enter your Crazyegg.com Account Number.
+3. Using the "WordPress *General* Settings" menu, navigate to Crazyegg Heatmap Tracking and enter your Crazyegg.com Account Number.
 
 == Frequently Asked Questions ==
 
