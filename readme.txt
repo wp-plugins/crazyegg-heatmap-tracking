@@ -2,7 +2,7 @@
 Contributors: crazyegg
 Tags: crazyegg, traffic, tracking, clicktracking
 Requires at least: 2.0.2
-Tested up to: 3.5.1
+Tested up to: 3.7.1
 Stable tag: trunk
 
 The official Crazyegg.com heatmap tracking plugin for Wordpress.
