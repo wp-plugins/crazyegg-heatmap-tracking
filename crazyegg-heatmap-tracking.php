@@ -3,7 +3,7 @@
 Plugin Name: Crazyegg-Heatmap-Tracking
 Plugin URI: http://www.crazyegg.com/
 Description: Enables Crazyegg.com heatmap tracking on your WordPress site.
-Version: 1.0
+Version: 1.1
 Author: Crazyegg
 Author URI: http://www.crazyegg.com
 License: GPL
